@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\bin\Debug\netcoreapp3.1\acmeAccountingHelloWorld.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\bin\Debug\netcoreapp3.1\acmeAccountingHelloWorld.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\bin\Debug\netcoreapp3.1\acmeAccountingHelloWorld.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\bin\Debug\netcoreapp3.1\acmeAccountingHelloWorld.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\bin\Debug\netcoreapp3.1\acmeAccountingHelloWorld.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\bin\Debug\netcoreapp3.1\acmeAccountingHelloWorld.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\acmeAccountingHelloWorld\acmeAccountingHelloWorld\obj\Debug\netcoreapp3.1\acmeAccountingHelloWorld.genruntimeconfig.cache
