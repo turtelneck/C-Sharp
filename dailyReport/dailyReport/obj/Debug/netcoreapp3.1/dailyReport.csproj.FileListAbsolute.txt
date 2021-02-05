@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\bin\Debug\netcoreapp3.1\dailyReport.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\bin\Debug\netcoreapp3.1\dailyReport.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\bin\Debug\netcoreapp3.1\dailyReport.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\bin\Debug\netcoreapp3.1\dailyReport.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\bin\Debug\netcoreapp3.1\dailyReport.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\bin\Debug\netcoreapp3.1\dailyReport.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\dailyReport\dailyReport\obj\Debug\netcoreapp3.1\dailyReport.genruntimeconfig.cache
