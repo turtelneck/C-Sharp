@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\bin\Debug\netcoreapp3.1\BasicMathStuff.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\bin\Debug\netcoreapp3.1\BasicMathStuff.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\bin\Debug\netcoreapp3.1\BasicMathStuff.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\bin\Debug\netcoreapp3.1\BasicMathStuff.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\bin\Debug\netcoreapp3.1\BasicMathStuff.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\bin\Debug\netcoreapp3.1\BasicMathStuff.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\BasicMathStuff\BasicMathStuff\obj\Debug\netcoreapp3.1\BasicMathStuff.genruntimeconfig.cache
