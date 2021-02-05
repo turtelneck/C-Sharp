@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\bin\Debug\netcoreapp3.1\Income_Comparison.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\bin\Debug\netcoreapp3.1\Income_Comparison.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\bin\Debug\netcoreapp3.1\Income_Comparison.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\bin\Debug\netcoreapp3.1\Income_Comparison.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\bin\Debug\netcoreapp3.1\Income_Comparison.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\bin\Debug\netcoreapp3.1\Income_Comparison.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\Income_Comparison\Income_Comparison\obj\Debug\netcoreapp3.1\Income_Comparison.genruntimeconfig.cache
