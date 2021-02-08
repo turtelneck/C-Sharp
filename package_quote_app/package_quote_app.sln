@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "package_quote_app", "package_quote_app\package_quote_app.csproj", "{393B6E68-F077-493A-892C-B1A4F5F9724C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393B6E68-F077-493A-892C-B1A4F5F9724C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393B6E68-F077-493A-892C-B1A4F5F9724C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393B6E68-F077-493A-892C-B1A4F5F9724C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393B6E68-F077-493A-892C-B1A4F5F9724C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C748F57-10B9-4026-8E54-8CCAEB84E79A}
+	EndGlobalSection
+EndGlobal

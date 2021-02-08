@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\bin\Debug\netcoreapp3.1\package_quote_app.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\bin\Debug\netcoreapp3.1\package_quote_app.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\bin\Debug\netcoreapp3.1\package_quote_app.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\bin\Debug\netcoreapp3.1\package_quote_app.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\bin\Debug\netcoreapp3.1\package_quote_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\bin\Debug\netcoreapp3.1\package_quote_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\package_quote_app\package_quote_app\obj\Debug\netcoreapp3.1\package_quote_app.genruntimeconfig.cache
