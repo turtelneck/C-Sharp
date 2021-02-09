@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\bin\Debug\netcoreapp3.1\basic_concat_strbuilder_app.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\bin\Debug\netcoreapp3.1\basic_concat_strbuilder_app.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\bin\Debug\netcoreapp3.1\basic_concat_strbuilder_app.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\bin\Debug\netcoreapp3.1\basic_concat_strbuilder_app.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\bin\Debug\netcoreapp3.1\basic_concat_strbuilder_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\bin\Debug\netcoreapp3.1\basic_concat_strbuilder_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_concat_strbuilder_app\basic_concat_strbuilder_app\obj\Debug\netcoreapp3.1\basic_concat_strbuilder_app.genruntimeconfig.cache

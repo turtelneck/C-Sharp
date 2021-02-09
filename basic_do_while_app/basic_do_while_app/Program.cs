@@ -15,7 +15,7 @@ namespace basic_do_while_app
             }
             do
             {
-                Console.WriteLine("\nHello again!");
+                Console.WriteLine("\nHello again!\n");
             } while (isTrue);
 
             Console.Read();
