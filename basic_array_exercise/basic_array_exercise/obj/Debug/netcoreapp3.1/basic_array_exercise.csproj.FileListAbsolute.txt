@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\bin\Debug\netcoreapp3.1\basic_array_exercise.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\bin\Debug\netcoreapp3.1\basic_array_exercise.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\bin\Debug\netcoreapp3.1\basic_array_exercise.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\bin\Debug\netcoreapp3.1\basic_array_exercise.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\bin\Debug\netcoreapp3.1\basic_array_exercise.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\bin\Debug\netcoreapp3.1\basic_array_exercise.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_array_exercise\basic_array_exercise\obj\Debug\netcoreapp3.1\basic_array_exercise.genruntimeconfig.cache
