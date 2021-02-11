@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\bin\Debug\netcoreapp3.1\int_list_app.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\bin\Debug\netcoreapp3.1\int_list_app.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\bin\Debug\netcoreapp3.1\int_list_app.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\bin\Debug\netcoreapp3.1\int_list_app.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\bin\Debug\netcoreapp3.1\int_list_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\bin\Debug\netcoreapp3.1\int_list_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\int_list_app\int_list_app\obj\Debug\netcoreapp3.1\int_list_app.genruntimeconfig.cache
