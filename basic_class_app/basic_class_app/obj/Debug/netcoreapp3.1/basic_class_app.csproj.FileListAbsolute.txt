@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\bin\Debug\netcoreapp3.1\basic_class_app.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\bin\Debug\netcoreapp3.1\basic_class_app.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\bin\Debug\netcoreapp3.1\basic_class_app.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\bin\Debug\netcoreapp3.1\basic_class_app.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\bin\Debug\netcoreapp3.1\basic_class_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\bin\Debug\netcoreapp3.1\basic_class_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app\basic_class_app\obj\Debug\netcoreapp3.1\basic_class_app.genruntimeconfig.cache
