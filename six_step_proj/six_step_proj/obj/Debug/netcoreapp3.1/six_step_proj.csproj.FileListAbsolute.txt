@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\bin\Debug\netcoreapp3.1\six_step_proj.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\bin\Debug\netcoreapp3.1\six_step_proj.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\bin\Debug\netcoreapp3.1\six_step_proj.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\bin\Debug\netcoreapp3.1\six_step_proj.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\bin\Debug\netcoreapp3.1\six_step_proj.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\bin\Debug\netcoreapp3.1\six_step_proj.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\six_step_proj\six_step_proj\obj\Debug\netcoreapp3.1\six_step_proj.genruntimeconfig.cache

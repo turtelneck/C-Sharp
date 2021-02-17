@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\bin\Debug\netcoreapp3.1\basic_class_app5.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\bin\Debug\netcoreapp3.1\basic_class_app5.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\bin\Debug\netcoreapp3.1\basic_class_app5.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\bin\Debug\netcoreapp3.1\basic_class_app5.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\bin\Debug\netcoreapp3.1\basic_class_app5.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\bin\Debug\netcoreapp3.1\basic_class_app5.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\basic_class_app5\basic_class_app5\obj\Debug\netcoreapp3.1\basic_class_app5.genruntimeconfig.cache
