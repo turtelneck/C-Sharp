@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rhodr\\source\\repos\\class_inheritance\\class_inheritance\\class_inheritance.csproj": {}
+    "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_inheritance\\class_inheritance\\class_inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rhodr\\source\\repos\\class_inheritance\\class_inheritance\\class_inheritance.csproj": {
+    "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_inheritance\\class_inheritance\\class_inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rhodr\\source\\repos\\class_inheritance\\class_inheritance\\class_inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_inheritance\\class_inheritance\\class_inheritance.csproj",
         "projectName": "class_inheritance",
-        "projectPath": "C:\\Users\\rhodr\\source\\repos\\class_inheritance\\class_inheritance\\class_inheritance.csproj",
+        "projectPath": "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_inheritance\\class_inheritance\\class_inheritance.csproj",
         "packagesPath": "C:\\Users\\rhodr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rhodr\\source\\repos\\class_inheritance\\class_inheritance\\obj\\",
+        "outputPath": "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_inheritance\\class_inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhodr\\AppData\\Roaming\\NuGet\\NuGet.Config",

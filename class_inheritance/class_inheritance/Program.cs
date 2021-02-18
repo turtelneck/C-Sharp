@@ -6,6 +6,7 @@ namespace class_inheritance
     {
         static void Main()
         {
+            // by instantiating `Employee` we can use all properties it inherits from `Person`
             Employee Emp1 = new Employee();
             Emp1.FirstName = "Bubbus";
             Emp1.LastName = "Bibberbramble";
