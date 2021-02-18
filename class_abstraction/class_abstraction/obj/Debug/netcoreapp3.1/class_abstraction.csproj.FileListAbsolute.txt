@@ -1,0 +1,13 @@
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\bin\Debug\netcoreapp3.1\class_abstraction.exe
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\bin\Debug\netcoreapp3.1\class_abstraction.deps.json
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\bin\Debug\netcoreapp3.1\class_abstraction.runtimeconfig.json
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\bin\Debug\netcoreapp3.1\class_abstraction.runtimeconfig.dev.json
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\bin\Debug\netcoreapp3.1\class_abstraction.dll
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\bin\Debug\netcoreapp3.1\class_abstraction.pdb
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.csprojAssemblyReference.cache
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.AssemblyInfoInputs.cache
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.AssemblyInfo.cs
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.dll
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.pdb
+C:\Users\rhodr\source\repos\class_abstraction\class_abstraction\obj\Debug\netcoreapp3.1\class_abstraction.genruntimeconfig.cache
