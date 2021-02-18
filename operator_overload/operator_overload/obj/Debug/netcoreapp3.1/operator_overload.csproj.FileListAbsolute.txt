@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\bin\Debug\netcoreapp3.1\operator_overload.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\bin\Debug\netcoreapp3.1\operator_overload.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\bin\Debug\netcoreapp3.1\operator_overload.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\bin\Debug\netcoreapp3.1\operator_overload.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\bin\Debug\netcoreapp3.1\operator_overload.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\bin\Debug\netcoreapp3.1\operator_overload.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\operator_overload\operator_overload\obj\Debug\netcoreapp3.1\operator_overload.genruntimeconfig.cache
