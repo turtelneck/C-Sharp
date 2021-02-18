@@ -4,15 +4,20 @@ using System.Text;
 
 namespace class_abstraction
 {
-    class Employee : Person
+    class Employee : Person, IQuitting
     {
         public int Id { get; set; }
-        
-        // this makes use of the inherited method `SayName()` while adding a new line of code to make it work better in the context of the class Employee
+
         public override void SayName()
         {
             Console.WriteLine("\nID: {0}", Id);
             base.SayName();
+        }
+
+        // implements method from the IQuitting interface, which is required for inheritance to take place
+        public void Quit()
+        {
+            Console.WriteLine("\nEmployee has quit");
         }
     }
 }

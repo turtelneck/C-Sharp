@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rhodr\\source\\repos\\class_abstraction\\class_abstraction\\class_abstraction.csproj",
+      "projectUniqueName": "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_abstraction\\class_abstraction\\class_abstraction.csproj",
       "projectName": "class_abstraction",
-      "projectPath": "C:\\Users\\rhodr\\source\\repos\\class_abstraction\\class_abstraction\\class_abstraction.csproj",
+      "projectPath": "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_abstraction\\class_abstraction\\class_abstraction.csproj",
       "packagesPath": "C:\\Users\\rhodr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rhodr\\source\\repos\\class_abstraction\\class_abstraction\\obj\\",
+      "outputPath": "C:\\Users\\rhodr\\OneDrive\\Documents\\GitHub\\C-Sharp\\class_abstraction\\class_abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rhodr\\AppData\\Roaming\\NuGet\\NuGet.Config",

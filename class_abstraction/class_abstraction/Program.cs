@@ -4,14 +4,19 @@ namespace class_abstraction
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Employee EmpGuy = new Employee();
-            EmpGuy.Id = 1111;
-            EmpGuy.FirstName = "Bubble";
-            EmpGuy.LastName = "Boblumbibber";
+            Employee Guy = new Employee();
+            Guy.Id = 1111;
+            Guy.FirstName = "Bubble";
+            Guy.LastName = "Boblumbibber";
 
-            EmpGuy.SayName();
+            Guy.SayName();
+            Guy.Quit();
+
+            // polymorphs the interface IQuitting into a new instance of the Employee class
+            IQuitting OtherGuy = new Employee();
+            OtherGuy.Quit();
 
             Console.Read();
         }
