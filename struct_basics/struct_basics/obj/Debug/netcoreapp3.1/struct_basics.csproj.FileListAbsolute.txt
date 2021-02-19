@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\bin\Debug\netcoreapp3.1\struct_basics.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\bin\Debug\netcoreapp3.1\struct_basics.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\bin\Debug\netcoreapp3.1\struct_basics.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\bin\Debug\netcoreapp3.1\struct_basics.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\bin\Debug\netcoreapp3.1\struct_basics.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\bin\Debug\netcoreapp3.1\struct_basics.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\struct_basics\struct_basics\obj\Debug\netcoreapp3.1\struct_basics.genruntimeconfig.cache
