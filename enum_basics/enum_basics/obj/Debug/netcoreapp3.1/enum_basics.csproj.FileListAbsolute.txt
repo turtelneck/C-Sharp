@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\bin\Debug\netcoreapp3.1\enum_basics.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\bin\Debug\netcoreapp3.1\enum_basics.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\bin\Debug\netcoreapp3.1\enum_basics.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\bin\Debug\netcoreapp3.1\enum_basics.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\bin\Debug\netcoreapp3.1\enum_basics.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\bin\Debug\netcoreapp3.1\enum_basics.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\enum_basics\enum_basics\obj\Debug\netcoreapp3.1\enum_basics.genruntimeconfig.cache
