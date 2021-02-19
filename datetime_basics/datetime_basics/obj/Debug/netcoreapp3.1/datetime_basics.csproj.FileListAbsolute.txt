@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\bin\Debug\netcoreapp3.1\datetime_basics.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\bin\Debug\netcoreapp3.1\datetime_basics.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\bin\Debug\netcoreapp3.1\datetime_basics.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\bin\Debug\netcoreapp3.1\datetime_basics.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\bin\Debug\netcoreapp3.1\datetime_basics.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\bin\Debug\netcoreapp3.1\datetime_basics.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\datetime_basics\datetime_basics\obj\Debug\netcoreapp3.1\datetime_basics.genruntimeconfig.cache
