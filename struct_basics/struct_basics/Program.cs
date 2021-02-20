@@ -83,6 +83,7 @@ namespace struct_basics
             }
 
             List<Employee> AllBonkos = new List<Employee>();
+            List<Employee> AllBonkosLambda = new List<Employee>();
             List<Employee> TopHalf = new List<Employee>();
 
             // adds all employees named "Bonko" to a list
@@ -94,20 +95,31 @@ namespace struct_basics
                 }
             }
 
+            // does the same, using a lambda expression
+            foreach (Employee emp in Employees.FindAll(emp => (emp.FName == "Bonko")))
+            {
+                AllBonkosLambda.Add(emp);
+            }
+
             // finds all employees with IDs higher than 5 using a lambda expression and adds them to a list
             foreach (Employee emp in Employees.FindAll(emp => (emp.Id > 5)))
             {
                 TopHalf.Add(emp);
             }
 
-            // my way of making sure I did this right
-            Console.WriteLine("\n");
+            Console.WriteLine("");
             foreach (Employee emp in AllBonkos)
             {
                 Console.WriteLine(emp.FName);
             }
 
-            Console.WriteLine("\n");
+            Console.WriteLine("");
+            foreach (Employee emp in AllBonkosLambda)
+            {
+                Console.WriteLine(emp.FName);
+            }
+
+            Console.WriteLine("");
             foreach (Employee emp in TopHalf)
             {
                 Console.WriteLine(emp.FName);
