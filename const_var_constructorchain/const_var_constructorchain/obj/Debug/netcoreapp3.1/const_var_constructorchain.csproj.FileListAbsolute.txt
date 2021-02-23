@@ -1,0 +1,13 @@
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\bin\Debug\netcoreapp3.1\const_var_constructorchain.exe
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\bin\Debug\netcoreapp3.1\const_var_constructorchain.deps.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\bin\Debug\netcoreapp3.1\const_var_constructorchain.runtimeconfig.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\bin\Debug\netcoreapp3.1\const_var_constructorchain.runtimeconfig.dev.json
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\bin\Debug\netcoreapp3.1\const_var_constructorchain.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\bin\Debug\netcoreapp3.1\const_var_constructorchain.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.csprojAssemblyReference.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.AssemblyInfoInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.AssemblyInfo.cs
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.csproj.CoreCompileInputs.cache
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.dll
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.pdb
+C:\Users\rhodr\OneDrive\Documents\GitHub\C-Sharp\const_var_constructorchain\const_var_constructorchain\obj\Debug\netcoreapp3.1\const_var_constructorchain.genruntimeconfig.cache
