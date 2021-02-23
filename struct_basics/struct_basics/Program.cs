@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace struct_basics
 {
@@ -77,16 +78,15 @@ namespace struct_basics
             Employees.Add(emp9);
             Employees.Add(emp10);
 
+            Console.WriteLine("\nList: Employees");
             foreach (Employee emp in Employees)
             {
-                Console.WriteLine(emp.FName);
+                Console.WriteLine("-- " + emp.FName + " " + emp.LName);
             }
+            
 
             List<Employee> AllBonkos = new List<Employee>();
-            List<Employee> AllBonkosLambda = new List<Employee>();
-            List<Employee> TopHalf = new List<Employee>();
-
-            // adds all employees named "Bonko" to a list
+            // adds all employees named "Bonko" to a list using foreach
             foreach (Employee emp in Employees)
             {
                 if (emp.FName == "Bonko")
@@ -95,34 +95,32 @@ namespace struct_basics
                 }
             }
 
-            // does the same, using a lambda expression
-            foreach (Employee emp in Employees.FindAll(emp => (emp.FName == "Bonko")))
-            {
-                AllBonkosLambda.Add(emp);
-            }
 
-            // finds all employees with IDs higher than 5 using a lambda expression and adds them to a list
-            foreach (Employee emp in Employees.FindAll(emp => (emp.Id > 5)))
-            {
-                TopHalf.Add(emp);
-            }
+            // same as above, but via lambda expression
+            List<Employee> AllBonkosLambda = Employees.FindAll(emp => emp.FName == "Bonko").ToList(); ;
 
-            Console.WriteLine("");
+
+            // adds employees with IDs >5 to a list via lambda expression
+            List<Employee> TopHalf = Employees.FindAll(emp => emp.Id > 5).ToList();
+
+
+            // print names to test list creation
+            Console.WriteLine("\n\nList: AllBonkos");
             foreach (Employee emp in AllBonkos)
             {
-                Console.WriteLine(emp.FName);
+                Console.WriteLine("-- " + emp.FName + " " + emp.LName);
             }
 
-            Console.WriteLine("");
+            Console.WriteLine("\nList: AllBonkosLambda");
             foreach (Employee emp in AllBonkosLambda)
             {
-                Console.WriteLine(emp.FName);
+                Console.WriteLine("-- " + emp.FName + " " + emp.LName);
             }
 
-            Console.WriteLine("");
+            Console.WriteLine("\nList: TopHalf");
             foreach (Employee emp in TopHalf)
             {
-                Console.WriteLine(emp.FName);
+                Console.WriteLine("-- " + emp.FName + " " + emp.LName);
             }
 
             Console.Read();
