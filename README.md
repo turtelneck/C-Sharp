@@ -1,7 +1,7 @@
 <p>A collection of all C# projects:</p>
 <ul>
 	<li>
-		<a href="https://github.com/turtelneck/javascript-projects/tree/main/Project9_countdown_slideshow">
+		<a href="https://github.com/turtelneck/C-Sharp/tree/main/SouthSudan">
 			What Time Is It In South Sudan?
 		</a>
 	</li>
