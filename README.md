@@ -18,7 +18,7 @@ Car Insurance:
 
 What Time Is It In South Sudan:
 <ul>
-	<li>On top of being an extremely useful way to find out what time it is in South Sudan, which you'll undoubtedly be relieved to have in your life at last, this is an example of a basic MVC web build making use of the TimeZoneInfo system class. It's hosted on Azure at <a href="https://whattimeisitinsouthsudan.azurewebsites.net/">https://whattimeisitinsouthsudan.azurewebsites.net/</a> for your convenience.</li>
+	<li>On top of being an extremely useful way to find out what time it is in South Sudan, which you'll undoubtedly be relieved to have in your life at last, this is an example of a basic ASP.NET Core web build making use of the TimeZoneInfo system class. It's hosted on Azure at <a href="https://whattimeisitinsouthsudan.azurewebsites.net/">https://whattimeisitinsouthsudan.azurewebsites.net/</a> for your convenience.</li>
 </ul>
 
 Student Database:
