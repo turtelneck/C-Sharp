@@ -1,14 +1,10 @@
 <p>A collection of all C# projects:</p>
 <ul>
 	<li>
-		<a href="https://github.com/turtelneck/C-Sharp/tree/main/CarInsurance">
-			Car Insurance Web App - ASP.NET MVC
-		</a>
+		<a href="https://github.com/turtelneck/C-Sharp/tree/main/CarInsurance">Car Insurance Web App</a> - ASP.NET MVC
 	</li>
 	<li>
-		<a href="https://github.com/turtelneck/C-Sharp/tree/main/SouthSudan">
-			What Time Is It In South Sudan? - ASP.NET Core
-		</a>
+		<a href="https://github.com/turtelneck/C-Sharp/tree/main/SouthSudan">What Time Is It In South Sudan?</a> - ASP.NET Core
 	</li>
 	<li>
 		<a href="https://github.com/turtelneck/javascript-projects/tree/main/Project3_math_operators">
