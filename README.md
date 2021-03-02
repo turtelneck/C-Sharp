@@ -1,4 +1,4 @@
-<p>A collection of all C# projects:</p>
+<p>Some notable projects from this repository:</p>
 <ul>
 	<li>
 		<a href="https://github.com/turtelneck/C-Sharp/tree/main/CarInsurance">Car Insurance Web App</a> | ASP.NET MVC
