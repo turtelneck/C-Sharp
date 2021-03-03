@@ -1,4 +1,4 @@
-<p>Some notable projects from this repository:</p>
+<h3>Some notable projects from this repository:</h3>
 <ul>
 	<li>
 		<a href="https://github.com/turtelneck/C-Sharp/tree/main/CarInsurance">Car Insurance Web App</a> | ASP.NET MVC
